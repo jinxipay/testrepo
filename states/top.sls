@@ -4,3 +4,7 @@
 base:
   'test-minion.acc.cyso.tintel.net':
     - server.test-minion
+
+acc:
+  'test-minion.acc.cyso.tintel.net':
+    - server.test-minion
