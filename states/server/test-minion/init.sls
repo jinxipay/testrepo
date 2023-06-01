@@ -1,4 +1,4 @@
 teststate:
   file.managed:
     - name: /testfile
-    - contents: abcd
+    - contents: abcd branch
